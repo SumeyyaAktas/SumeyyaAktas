@@ -13,6 +13,12 @@
 * Advanced Programming in the Unix Environment by W. Richard Stevens
 
 ### 🔗 More About Me
-Personal website: https://suak7.github.io/
+<p>
+  
+Personal website: [suak7.github.io](<https://suak7.github.io/>)
+
+LinkedIn: [linkedin.com/in/sumeyya-aktas](<https://www.linkedin.com/in/sumeyya-aktas/>)
 
 Feel free to explore my repositories or reach out!
+  
+</p>
