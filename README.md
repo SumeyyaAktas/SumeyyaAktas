@@ -3,7 +3,7 @@
 <p>I’m a freshman Computer Science student at the University of Florida with a strong interest in low-level systems programming, particularly operating systems, kernels, and device driver development.</p>
 
 ### 🔧 What I'm Working On
-* [mangOS](<https://github.com/DylanBT928/mangOS>): Building a custom 64-bit x86-64 operating system in C with 4 other developers
+* [mangOS](<https://github.com/DylanBT928/mangOS>): Building a custom 64-bit x86-64 operating system in C with 5 other developers
 * [Artorias](<https://github.com/suak7/Artorias>): EHCI (USB 2.0) controller with 32-bit x86 bootloader
 * [Radagon](<https://github.com/suak7/Radagon>): AHCI (SATA) storage driver with 64-bit x86 bootloader
 
