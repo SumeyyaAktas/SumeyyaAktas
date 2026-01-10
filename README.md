@@ -7,9 +7,10 @@
 * [Artorias](<https://github.com/suak7/Artorias>): 32-bit x86 bootloader with EHCI (USB 2.0) controller  
 * [Radagon](<https://github.com/suak7/Radagon>): 64-bit x86 bootloader with AHCI (SATA) storage driver
 
-### 📚 Current Reads
-* Introduction to Embedded Systems: a Cyber-Physical Systems Approach by Lee and Seshia 
-* Advanced Programming in the Unix Environment by W. Richard Stevens
+### 📝 My Blog
+You can find all of my blog posts on my Medium page [@sumeyyaaktas](<https://medium.com/@sumeyyaaktas>).
+* 2026/01/10 - [How Virtual Memory Becomes Physical](<https://medium.com/@sumeyyaaktas/how-virtual-memory-becomes-physical-2b37ef9237e8>)
+* 2025/12/29 - [Writing a 32-bit x86 Bootloader From Scratch](<https://medium.com/@sumeyyaaktas/part-1-writing-a-custom-x86-bootloader-with-ehci-support-from-scratch-43cb7a5b736d>)
 
 ### 🔗 More About Me
 * Personal website: [suak7.github.io](<https://suak7.github.io/>)
