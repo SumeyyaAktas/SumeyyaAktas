@@ -4,12 +4,11 @@
 
 ### 🔧 What I'm Working On
 * [mangOS](<https://github.com/DylanBT928/mangOS>): Building a custom 64-bit x86-64 operating system in C with 5 other developers
-* [Artorias](<https://github.com/suak7/Artorias>): EHCI (USB 2.0) controller with 32-bit x86 bootloader
-* [Radagon](<https://github.com/suak7/Radagon>): AHCI (SATA) storage driver with 64-bit x86 bootloader
+* [Artorias](<https://github.com/suak7/Artorias>): 32-bit x86 bootloader with EHCI (USB 2.0) controller  
+* [Radagon](<https://github.com/suak7/Radagon>): 64-bit x86 bootloader with AHCI (SATA) storage driver
 
 ### 📚 Current Reads
 * Introduction to Embedded Systems: a Cyber-Physical Systems Approach by Lee and Seshia 
-* Making 8-bit Arcade Games in C by Steven Hugg
 * Advanced Programming in the Unix Environment by W. Richard Stevens
 
 ### 🔗 More About Me
