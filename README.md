@@ -13,5 +13,5 @@ You can find all of my blog posts on my Medium page [@sumeyyaaktas](<https://med
 * 2025/12/29 - [Writing a 32-bit x86 Bootloader From Scratch](<https://medium.com/@sumeyyaaktas/part-1-writing-a-custom-x86-bootloader-with-ehci-support-from-scratch-43cb7a5b736d>)
 
 ### 🔗 More About Me
-* Personal website: [suak7.github.io](<https://suak7.github.io/>)
+* Personal website: [sumeyyaaktas.github.io](<https://sumeyyaaktas.github.io/>)
 * LinkedIn: [linkedin.com/in/sumeyya-aktas](<https://www.linkedin.com/in/sumeyya-aktas/>)
