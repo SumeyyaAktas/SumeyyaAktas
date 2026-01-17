@@ -1,6 +1,6 @@
 # Hi, I am Sumeyya – Upcoming Firmware Engineer
 
-<p>I’m a computer science student with a strong interest in low-level systems programming, particularly operating systems, kernels, and device driver development.</p>
+<p>I’m currently a computer science student at University of Florida with a strong interest in low-level systems programming, particularly operating systems, kernels, and device driver development.</p>
 
 ### What I'm Working On
 * [mangOS](<https://github.com/DylanBT928/mangOS>): Building a custom 64-bit x86-64 operating system in C with 5 other developers
